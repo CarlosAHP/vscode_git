@@ -7,7 +7,9 @@ int main(int argc, char const *argv[])
     string nit, nombres, apellidos, direccion;
     int telefono; 
 
-    cout<<"ingresar nit: ";
+    cout << "--hola que tal prueba de algo diferente--" << endl;
+
+    cout<<"ingresar nit : ";
     cin>>nit;
 
     cout<<"ingresar Nombres: ";
