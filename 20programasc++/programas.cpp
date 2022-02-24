@@ -50,7 +50,7 @@ int main()
 		cout<<"19) correspondencia de un numero introducido  "<<endl;
 		cout<<"20) calcular el valor de los numeros "<<endl;
 		cout<<"21) salir del programa"<<endl<<endl<<endl;
-		cout<<"\n Seleccione una opcion: ";
+		cout<<"\n Seleccione una opcion:   ";
 		cin>>op;
 
        switch (op)
